@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body{ /*formatação geral */
+    font-size: 100%;
+    background: linear-gradient(to top, #000000 100%, #81039b);
+
+}
+
+.cabecalho{
+    display: flex;
+    margin: 0%;
+    padding:24px ;
+    align-items: center;
+}
+.logo{
+    width: 50px;
+}
+
+.titulo-principal{
+    font-family: 'Poppins';
+    font-size: 30px;
+    padding: 20px;
+    color: #ffffff;
+}
+/*de forma pai-menu*/
+.menu{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 50px;
+    margin-left:auto;
+    color:#ffffff
+
+}
+/*de forma filho-menu*/
+.menu a{
+    text-decoration: none;
+    font-family: 'Poppins';
+    font-size: 35px;
+    font-weight: 40px;
+    gap: 32px;
+ }
+
+ .start{
+    color: #ffffff;
+    border: 2px #ffffff solid;  
+    border-radius: 5px;
+    padding: 15px 50px;
+    font-weight: bold;
+    line-height: 30px;
+ }
+
+.conteudo-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 5px #9b1f53 solid;
+    border-radius: 5px;
+
+}
+.titulo{
+    color: #ffffff;
+    font-family: "Poppins" ;
+    font-size: 80px;
+    font-weight: 900;
+    height: 22px;
+}
+.subtitulo{
+    color: #ffffff;
+    font-family: "Montserrat", serif ;
+    font-size: 15px;
+    font-weight: normal;
+    padding: 28px 0;
+
+}
+.botao{
+    color:#ffffff;
+    background-color: #9b1f53;
+    border: 10px #9b1f53 solid;
+    border-radius: 24px;
+    font-size: 30px;
+    font-family: "Poppins";
+    font-weight: 600;
+}
+.imagem-container{
+    display: flex;
+    justify-content: right;
+    align-items:center;
+    margin-top: 100px;
+}
+.imagem-principal{
+    display: flex;
+    align-items: center;
+    height: 550px;
+}
