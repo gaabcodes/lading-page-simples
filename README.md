@@ -29,11 +29,11 @@ CSS3
 - Uso de classes CSS para personalizar diferentes seções; <br>
 - Alinhamento de conteúdo com flexbox; <br>
 - Montagem de um cabeçalho navegável e de uma seção principal com texto e imagem. <br>
-
-💬 Observações
-Este projeto é parte dos meus estudos em desenvolvimento front-end, com foco em construir interfaces simples e funcionais.
-
-✨ Autor
-Gabrieli Mendes
-💻 Desenvolvedora Front-end em formação
+<br>
+💬 Observações <br>
+Este projeto é parte dos meus estudos em desenvolvimento front-end, com foco em construir interfaces simples e funcionais.<br>
+<br>
+✨ Autor <br>
+Gabrieli Mendes <br>
+💻 Desenvolvedora Front-end em formação <br>
 📫 www.linkedin.com/in/gabrieli-oliveira-mendes
